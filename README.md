@@ -1,2 +1,2 @@
 # Looper
-The Official Repository for my Looper module
+A module that allows you to efficiently create and manage loops
